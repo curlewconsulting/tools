@@ -1,0 +1,101 @@
+2017-09-04 11:50:38,698 INFO  [org.jboss.modules] (main) JBoss Modules version 1.5.1.Final
+2017-09-04 11:50:39,550 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+2017-09-04 11:50:39,662 INFO  [org.jboss.as] (MSC service thread 1-7) WFLYSRV0049: WildFly Full 10.0.0.Final (WildFly Core 2.0.10.Final) starting
+2017-09-04 11:50:39,664 DEBUG [org.jboss.as.config] (MSC service thread 1-7) Configured system properties:
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = Cp1252
+	file.encoding.pkg = sun.io
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.headless = true
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\jboss-modules.jar
+	java.class.version = 52.0
+	java.endorsed.dirs = C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\endorsed
+	java.ext.dirs = C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+	java.home = C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre
+	java.io.tmpdir = C:\Users\jgresh\AppData\Local\Temp\
+	java.library.path = C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\bin;native;C:/_WORKSPACE/java/LINKS/CURRENT_JAVA/bin/../jre/bin/server;C:/_WORKSPACE/java/LINKS/CURRENT_JAVA/bin/../jre/bin;C:/_WORKSPACE/java/LINKS/CURRENT_JAVA/bin/../jre/lib/amd64;C:\Program Files\Docker\Docker\Resources\bin;C:\_WORKSPACE\java\LINKS;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\bin;C:\app\jgresh\product\12.1.0\dbhome_1\bin;"C:\Program Files\MySQL\MySQL Server 5.5\bin";C:\_WORKSPACE_FOR_TM\Ruby187\bin;C:\Program Files\CollabNet\Subversion Client;C:\_WORKSPACE\tools\apache-ant-1.9.3\bin;C:\_WORKSPACE\tools\apache-ant-1.9.3\apache-ant-1.9.3\bin;C:\_WORKSPACE\tools\apache-maven-3.0.4\bin;C:\app\jgresh\product\11.2.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files (x86)\Common Files\Lenovo;C:\SWTOOLS\ReadyApps;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\_WORKSPACES\YAORMA_WORKSPACE\eclipse;;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 1.8.0_131-b11
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.8
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = http://java.oracle.com/
+	java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+	java.version = 1.8.0_131
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.8
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 25.131-b11
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	javax.xml.datatype.DatatypeFactory = __redirected.__DatatypeFactory
+	javax.xml.parsers.DocumentBuilderFactory = __redirected.__DocumentBuilderFactory
+	javax.xml.parsers.SAXParserFactory = __redirected.__SAXParserFactory
+	javax.xml.stream.XMLEventFactory = __redirected.__XMLEventFactory
+	javax.xml.stream.XMLInputFactory = __redirected.__XMLInputFactory
+	javax.xml.stream.XMLOutputFactory = __redirected.__XMLOutputFactory
+	javax.xml.transform.TransformerFactory = __redirected.__TransformerFactory
+	javax.xml.validation.SchemaFactory:http://www.w3.org/2001/XMLSchema = __redirected.__SchemaFactory
+	javax.xml.xpath.XPathFactory:http://java.sun.com/jaxp/xpath/dom = __redirected.__XPathFactory
+	jboss.bind.address = localhost
+	jboss.bind.address.management = localhost
+	jboss.home.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final
+	jboss.host.name = lapjgresh
+	jboss.modules.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = lapjgresh
+	jboss.qualified.host.name = lapjgresh
+	jboss.server.base.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone
+	jboss.server.config.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\configuration
+	jboss.server.data.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\data
+	jboss.server.deploy.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\data\content
+	jboss.server.log.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\log
+	jboss.server.name = lapjgresh
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\tmp
+	line.separator = 
+
+	logging.configuration = file:C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\configuration\logging.properties
+	module.path = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\modules
+	org.jboss.boot.log.file = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\log\boot.log
+	org.jboss.logmanager.nocolor = true
+	org.jboss.resolver.warning = true
+	org.xml.sax.driver = __redirected.__XMLReaderFactory
+	os.arch = amd64
+	os.name = Windows 10
+	os.version = 10.0
+	path.separator = ;
+	program.name = JBossTools: WildFly 10.x
+	sun.arch.data.model = 64
+	sun.boot.class.path = C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\resources.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\rt.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\sunrsasign.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\jsse.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\jce.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\charsets.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\lib\jfr.jar;C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\classes
+	sun.boot.library.path = C:\_WORKSPACE\java\LINKS\CURRENT_JAVA\jre\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = org.jboss.modules.Main -mp C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\modules org.jboss.as.standalone -b localhost --server-config=standalone.xml -Djboss.server.base.dir=C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.rmi.dgc.client.gcInterval = 3600000
+	sun.rmi.dgc.server.gcInterval = 3600000
+	user.country = US
+	user.dir = C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\bin
+	user.home = C:\Users\jgresh
+	user.language = en
+	user.name = jgresh
+	user.script = 
+	user.timezone = America/New_York
+	user.variant = 
+2017-09-04 11:50:39,669 DEBUG [org.jboss.as.config] (MSC service thread 1-7) VM Arguments: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:56608 -Dprogram.name=JBossTools: WildFly 10.x -Xms64m -Xmx512m -Dorg.jboss.resolver.warning=true -Djava.net.preferIPv4Stack=true -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Djboss.modules.system.pkgs=org.jboss.byteman -Djava.awt.headless=true -Dorg.jboss.boot.log.file=C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\log\boot.log -Dlogging.configuration=file:C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final\standalone\configuration\logging.properties -Djboss.home.dir=C:\_WORKSPACES\YAORMA_WORKSPACE\servers\wildfly\wildfly-10.0.0.Final -Dorg.jboss.logmanager.nocolor=true -Djboss.bind.address.management=localhost -Dfile.encoding=Cp1252 
+2017-09-04 11:50:41,362 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2017-09-04 11:50:41,389 INFO  [org.xnio] (MSC service thread 1-4) XNIO version 3.3.4.Final
+2017-09-04 11:50:41,400 INFO  [org.xnio.nio] (MSC service thread 1-4) XNIO NIO Implementation Version 3.3.4.Final
