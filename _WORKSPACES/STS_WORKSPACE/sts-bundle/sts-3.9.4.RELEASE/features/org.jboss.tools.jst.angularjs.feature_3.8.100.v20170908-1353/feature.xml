@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.jst.angularjs.feature"
+      label="%featureName"
+      version="3.8.100.v20170908-1353"
+      provider-name="%providerName"
+      plugin="org.jboss.tools.jst.angularjs">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.jboss.tools.jst.jsdt.feature" version="0.0.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.jboss.tools.jst.angularjs"
+         download-size="871"
+         install-size="1779"
+         version="3.8.100.v20170908-1353"
+         unpack="false"/>
+
+</feature>

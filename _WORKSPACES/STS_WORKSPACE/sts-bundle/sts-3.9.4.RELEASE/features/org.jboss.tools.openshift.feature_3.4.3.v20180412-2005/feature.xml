@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.openshift.feature"
+      label="%featureName"
+      version="3.4.3.v20180412-2005"
+      provider-name="%providerName"
+      plugin="org.jboss.tools.openshift.ui">
+
+   <description url="%descriptionURL">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.m2e.feature" version="1.2.0.20120903-1050" match="greaterOrEqual"/>
+      <import feature="org.eclipse.linuxtools.docker.feature"/>
+      <import plugin="org.jboss.tools.maven.springboot"/>
+   </requires>
+
+   <plugin id="org.jboss.tools.openshift.client" download-size="2211" install-size="2477" version="3.4.3.Final-v20180412-2005-B2685" unpack="false"/>
+   <plugin id="org.jboss.tools.openshift.ui" download-size="1276" install-size="2632" version="3.4.3.v20180409-1331" unpack="false"/>
+   <plugin id="org.jboss.tools.openshift.core" download-size="220" install-size="491" version="3.4.3.v20180409-1331" unpack="false"/>
+   <plugin id="org.jboss.tools.openshift.common.core" download-size="89" install-size="171" version="3.4.3.v20180321-1852" unpack="false"/>
+   <plugin id="org.jboss.tools.openshift.common.ui" download-size="242" install-size="487" version="3.4.3.v20180404-0854" unpack="false"/>
+</feature>

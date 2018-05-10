@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.jboss.tools.forge.runtime.ext
+Archiver-Version: Plexus Archiver
+Built-By: hudson
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosst
+ ools-forge.git;path="plugins/org.jboss.tools.forge.runtime.ext";commi
+ tId=d23c2f2931925d33f6054587d7247c4308e115d9
+Bundle-Vendor: %BundleProvider
+Bundle-Name: %BundleName
+Bundle-Version: 2.0.202.v20180109-1312
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_151
+Eclipse-BundleShape: dir
+
